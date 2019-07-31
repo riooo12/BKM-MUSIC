@@ -1,0 +1,6 @@
+owner=592901772998082560
+prefix=bk
+game=bkplay
+stayinchannel=true
+songinstatus=false
+token=NjA1OTIzOTczMzAxMjcyNTk3.XUDk3A.sQtgBdKxdVNkBrEgfDYErirjgKw
